@@ -1,1 +1,3 @@
-Test
+Our organization is called Indie Outsource, and the name carries a unique story behind it. It all began when one of our professors shared a rather provocative perspective during a lecture. He argued that learning programming might not be worth the effort, as, in his opinion, many developers end up being outsourced to countries like India due to global market trends. While his words were meant to challenge our thinking, they also sparked a sense of determination within us. Instead of accepting this as a limitation, we decided to embrace the global nature of the tech industry and turn it into an opportunity. Thus, Indie Outsource was born—a symbol of resilience, adaptability, and the belief that no matter where you are in the world, innovation and collaboration know no boundaries.
+
+We don't remember exact details of this story so we asked DeepSeek to halucinate it into existance.
